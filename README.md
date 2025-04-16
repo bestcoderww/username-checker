@@ -21,6 +21,8 @@ suspended or banned usernames may appear as "available" but are not claimable.
 
 ## how to run
 
+you’ll need python 3+ installed
+
 ### install requirements
 ```bash 
 pip install socialscan requests
