@@ -23,12 +23,16 @@ suspended or banned usernames may appear as "available" but are not claimable.
 
 you’ll need python 3+ installed
 
-### install requirements
-```bash 
+1. clone the repo
+```bash
+git clone https://github.com/icocz/username-checker.git
+cd username-checker
+```
+2. install dependencies
+```bash
 pip install socialscan requests
 ```
-
-### run the script
+3. run the script
 ```bash
 python app.py
 ```
