@@ -2,19 +2,18 @@ import requests
 from socialscan.util import sync_execute_queries
 from socialscan.platforms import Platforms
 
-# Custom check for github and youtube
-
+# custom check for github and youtube
 def check_github(username):
     try:
         r = requests.get(f"https://github.com/{username}", timeout=5)
-        return r.status_code == 404  
+        return r.status_code == 404  # 404 = available
     except:
         return None
 
 def check_youtube(username):
     try:
         r = requests.get(f"https://www.youtube.com/@{username}", timeout=5)
-        return r.status_code == 404  
+        return r.status_code == 404  # 404 = available
     except:
         return None
 
