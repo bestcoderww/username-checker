@@ -40,9 +40,13 @@ example output
 — icozc
 
   Twitter: Taken
+  
   Instagram: Available
+  
   Reddit: Taken
+  
   Github: Available
+  
   Youtube: Available
 
 —
