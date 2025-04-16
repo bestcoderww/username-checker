@@ -30,7 +30,7 @@ pip install socialscan requests
 
 ### run the script
 ```bash
-python username_checker.py
+python app.py
 ```
 
 you’ll be prompted to enter usernames (comma-separated), and it’ll check them across all supported platforms.
