@@ -39,7 +39,7 @@ you’ll be prompted to enter usernames (comma-separated), and it’ll check the
 
 example output
 
-— icozc
+— ico
 
   Twitter: Taken
   
