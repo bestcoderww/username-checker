@@ -23,7 +23,7 @@ suspended or banned usernames may appear as "available" but are not claimable.
 
 you’ll need python 3+ installed
 
-1. clone the repo
+1. clone the repo in your terminal or command prompt
 ```bash
 git clone https://github.com/icocz/username-checker.git
 cd username-checker
