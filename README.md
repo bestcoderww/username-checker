@@ -1,4 +1,4 @@
-# ico username availability checker
+# username availability checker
 
 check usernames across the most popular platforms:
 
@@ -45,7 +45,7 @@ example output
   Github: Available
   Youtube: Available
 
--
+—
 
 license
 
