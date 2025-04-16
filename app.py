@@ -2,6 +2,12 @@ import requests
 from socialscan.util import sync_execute_queries
 from socialscan.platforms import Platforms
 
+print("""
+┌───────────────────────────────────────┐
+│        ico's username checker         │
+└───────────────────────────────────────┘
+""")
+
 # custom check for github and youtube
 def check_github(username):
     try:
