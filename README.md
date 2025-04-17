@@ -12,7 +12,7 @@ github (custom check)
 
 youtube (custom check)
 
-to be added: telegram, discord, snapchat
+to be added: telegram, snapchat
 
 ⚠️ note: this tool detects if a profile is publicly visible.
 suspended or banned usernames may appear as "available" but are not claimable.
