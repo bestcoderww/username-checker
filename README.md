@@ -57,6 +57,10 @@ example output
   
   Youtube: Available
 
+  Telegram: Invalid
+
+  Snapchat: Taken
+
 —
 
 license
