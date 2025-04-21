@@ -2,19 +2,14 @@
 
 check usernames across the most popular platforms:
 
-twitter (via socialscan)
+twitter
+instagram
+reddit
+github
+youtube
+telegram
+snapchat
 
-instagram (via socialscan)
-
-reddit (via socialscan)
-
-github (custom check)
-
-youtube (custom check)
-
-telegram (custom check)
-
-snapchat (custom check)
 
 ⚠️ note: this tool detects if a profile is publicly visible.
 suspended or banned usernames may appear as "available" but are not claimable.
