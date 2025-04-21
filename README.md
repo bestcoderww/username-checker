@@ -3,11 +3,17 @@
 check usernames across the most popular platforms:
 
 twitter
+
 instagram
+
 reddit
+
 github
+
 youtube
+
 telegram
+
 snapchat
 
 
