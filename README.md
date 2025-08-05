@@ -1,4 +1,4 @@
-# username availability checker
+[OUTDATED] # username availability checker
 
 check usernames across the most popular platforms:
 
@@ -18,7 +18,7 @@ snapchat
 
 
 ⚠️ note: this tool detects if a profile is publicly visible.
-suspended or banned usernames may appear as "available" but are not claimable.
+many inaccuracies occur, this was built in 5 minutes and is not to be trusted for serious or large scale use. 
 
 —
 
@@ -28,7 +28,7 @@ you’ll need python 3+ installed
 
 1. clone the repo in your terminal or command prompt
 ```bash
-git clone https://github.com/icocz/username-checker.git
+git clone https://github.com/bestcoderww/username-checker.git
 cd username-checker
 ```
 2. install dependencies
@@ -46,7 +46,7 @@ you’ll be prompted to enter usernames (comma-separated), and it’ll check the
 
 example output
 
-— ico
+— ben
 
   Twitter: Taken
   
@@ -70,6 +70,4 @@ MIT License
 
 —
 
-credits
-
-made by ico
+made by ben
