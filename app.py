@@ -11,7 +11,7 @@ TAKEN = "Taken"
 ERROR = "Error"
 INVALID = "Invalid Format"
 TIMEOUT_SECONDS = 8
-USER_AGENT = 'ico-username-checker/1.9 (python/aiohttp)'
+USER_AGENT = 'ben-username-checker/1.9 (python/aiohttp)'
 
 async def check_github(session, username):
     url = f"https://github.com/{username}"
